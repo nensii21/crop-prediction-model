@@ -171,15 +171,6 @@ python app.py
 * React Router
 * Leaflet
 
----
-
-##  Author
-
-**Pranjali Yeotikar**
-
-* 🎓 B.Tech (CSE - Core Branch)
-* 🔗 GitHub: https://github.com/pranjali999
-* 🔗 LinkedIn: https://www.linkedin.com/in/pranjali-yeotikar-042ab82a6
 
 ---
 

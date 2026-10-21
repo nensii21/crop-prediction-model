@@ -55,17 +55,6 @@ AgriMind solves this by:
 
 ---
 
-##  Application Screenshots
-
-###  Home Interface
-
-<p align="center">
-  <img src="./screenshots/home1.png" width="45%"/>
-  <img src="./screenshots/home2.png" width="45%"/>
-</p>
-
----
-
 ###  Prediction Results
 
 <p align="center">
